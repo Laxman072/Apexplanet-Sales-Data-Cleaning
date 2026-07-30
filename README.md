@@ -41,7 +41,7 @@ The dataset contains sales-related information, including:
 |---|---:|
 | Total Records | 1,000 |
 | Missing City Values Before Cleaning | 7 |
-| Missing City Values After Cleaning | 20 |
+| Missing City Values After Cleaning | 0 |
 | Invalid Numeric Values | 0 |
 | Original Data Preserved | Yes |
 
